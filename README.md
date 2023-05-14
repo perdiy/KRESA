@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+# kresa
+<img width="1415" alt="page1" src="https://github.com/perdiy/KRESA/assets/80159812/8bff8dd2-432b-48c2-9a8c-bb687afb8d48">
+<img width="1421" alt="video1" src="https://github.com/perdiy/KRESA/assets/80159812/40351b3e-94b2-48d7-963b-8c423303764d">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
